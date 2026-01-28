@@ -34,5 +34,10 @@ This project follows a structured yet challenging pipeline, addressing real-worl
    - MRI images vary in size, quality, and contrast.
    - Tumor features can be subtle and difficult to distinguish, even for deep learning models.
    - Class imbalance and visual similarity between tumor types add to the complexity.
+  
+4. **Data Preprocessing**
+   - Images are resized and normalized to ensure consistency.
+   - Noise reduction and data preparation are carefully handled to preserve medical details.
+   - The dataset is split into training and testing sets to ensure fair evaluation.
 
 
