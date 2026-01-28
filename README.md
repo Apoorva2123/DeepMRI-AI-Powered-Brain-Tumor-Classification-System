@@ -20,3 +20,6 @@ The primary goal of this project is to:
 - Compare different deep learning models and identify the best-performing approach.
 - Gain hands-on experience with medical image preprocessing, model training, and evaluation.
 
+## Project Workflow
+This project follows a structured yet challenging pipeline, addressing real-world complexities involved in medical image analysis:
+
