@@ -47,6 +47,10 @@ This project follows a structured yet challenging pipeline, addressing real-worl
    - To address this, layers such as convolution, pooling, and dropout are strategically combined to balance accuracy and generalization.
    - Hyperparameters including learning rate, number of layers, batch size, and number of filters are tuned to ensure the model learns meaningful patterns without memorizing the training data.
    - The final architecture is chosen based on stable training behavior and strong performance on unseen MRI scans.
+  
+6. **Model Training**
+   - Models are trained on high-dimensional image data, requiring careful monitoring of loss and accuracy.
+   - Training deep networks on medical data is computationally intensive and time-sensitive.
 
 
 
