@@ -26,7 +26,13 @@ This project follows a structured yet challenging pipeline, addressing real-worl
 1. **Understanding the Problem Domain**
    - Brain tumor detection is a high-stakes medical task where accuracy and reliability are critical.
    - Even small classification errors can have serious real-world implications, making model design and evaluation challenging.
+     
 2. **Data Loading**
    - MRI images are loaded from the dataset and organized by class labels.
+  
+3. **Data Exploration & Challenges**
+   - MRI images vary in size, quality, and contrast.
+   - Tumor features can be subtle and difficult to distinguish, even for deep learning models.
+   - Class imbalance and visual similarity between tumor types add to the complexity.
 
 
