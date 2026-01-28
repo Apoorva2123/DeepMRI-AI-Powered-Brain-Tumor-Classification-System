@@ -60,7 +60,9 @@ This project follows a structured yet challenging pipeline, addressing real-worl
    - The best-performing model is selected based on accuracy, stability, and consistency.
    - Performance trade-offs are analyzed to ensure reliability rather than just high accuracy.
 
-9. 
+9. **Final Validation**
+   - The final model is validated on unseen MRI scans to simulate real-world deployment.
+   - Results demonstrate the potential of deep learning in supporting medical diagnosis.
 
 
 
