@@ -96,6 +96,11 @@ Through this project, I learned:
 - Deploy the model as a web application for real-time predictions.
 - Extend the model to classify additional tumor types or medical conditions.
 
+## Contributions
+
+Contributions, suggestions, and improvements are welcome.  Feel free to fork this repository or open an issue to discuss enhancements.  
+Thank you for taking the time to check out this project!
+
 
 
 
