@@ -4,6 +4,6 @@ DeepMRI is an AI-driven project focused on classifying brain tumors from MRI sca
 
 ## Dataset
 
-The dataset used for this project is available on Kaggle:  
+The dataset used for this project is publicly available on Kaggle:  
 [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
