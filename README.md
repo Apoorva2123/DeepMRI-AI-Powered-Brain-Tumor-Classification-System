@@ -13,3 +13,10 @@ The dataset used for this project is publicly available on Kaggle:
 - It provides enough samples to train and evaluate deep learning models effectively.
 - Using a public dataset ensures transparency and reproducibility of results.
 
+## Goal of the Project
+
+The primary goal of this project is to:
+- Accurately classify brain MRI images into tumor and non-tumor categories (or multiple tumor classes).
+- Compare different deep learning models and identify the best-performing approach.
+- Gain hands-on experience with medical image preprocessing, model training, and evaluation.
+
