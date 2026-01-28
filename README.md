@@ -71,6 +71,14 @@ This project follows a structured yet challenging pipeline, addressing real-worl
 - Identified the most effective model for this task.
 - Gained insights into handling medical image data and model evaluation.
 
+## Best Performing Model
+
+The **best-performing model** achieved the highest test accuracy while maintaining a good balance between training and testing performance, indicating minimal overfitting.
+
+- **Model Type:** Deep Learning CNN (RBF / CNN-based architecture)
+- **Performance:** High classification accuracy on unseen MRI scans
+- **Key Strength:** Strong generalization and reliable predictions
+
 
 
 
