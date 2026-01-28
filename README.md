@@ -79,6 +79,17 @@ The **best-performing model** achieved the highest test accuracy while maintaini
 - **Performance:** High classification accuracy on unseen MRI scans
 - **Key Strength:** Strong generalization and reliable predictions
 
+## What I Learned
+
+Through this project, I learned:
+- How to preprocess and handle medical imaging data.
+- The importance of model selection and evaluation in deep learning.
+- How overfitting occurs and how to analyze train vs test performance.
+- Practical experience with CNN architectures for real-world applications.
+- How AI can be applied meaningfully in the healthcare domain.
+
+
+
 
 
 
