@@ -64,6 +64,14 @@ This project follows a structured yet challenging pipeline, addressing real-worl
    - The final model is validated on unseen MRI scans to simulate real-world deployment.
    - Results demonstrate the potential of deep learning in supporting medical diagnosis.
 
+## What Was Accomplished
+
+- Successfully built and trained multiple deep learning models for brain tumor classification.
+- Achieved strong accuracy on the test dataset.
+- Identified the most effective model for this task.
+- Gained insights into handling medical image data and model evaluation.
+
+
 
 
 
