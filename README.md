@@ -52,5 +52,10 @@ This project follows a structured yet challenging pipeline, addressing real-worl
    - Models are trained on high-dimensional image data, requiring careful monitoring of loss and accuracy.
    - Training deep networks on medical data is computationally intensive and time-sensitive.
 
+7. **Evaluation & Overfitting Analysis**
+   - Training and testing performance are compared to detect overfitting.
+   - Special attention is given to generalization, as medical models must perform well on unseen data.
+
+
 
 
