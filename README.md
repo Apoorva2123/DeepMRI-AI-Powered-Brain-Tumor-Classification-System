@@ -56,6 +56,12 @@ This project follows a structured yet challenging pipeline, addressing real-worl
    - Training and testing performance are compared to detect overfitting.
    - Special attention is given to generalization, as medical models must perform well on unseen data.
 
+8. **Model Selection & Optimization**
+   - The best-performing model is selected based on accuracy, stability, and consistency.
+   - Performance trade-offs are analyzed to ensure reliability rather than just high accuracy.
+
+9. 
+
 
 
 
