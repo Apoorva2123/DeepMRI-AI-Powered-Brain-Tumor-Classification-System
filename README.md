@@ -23,3 +23,10 @@ The primary goal of this project is to:
 ## Project Workflow
 This project follows a structured yet challenging pipeline, addressing real-world complexities involved in medical image analysis:
 
+1. **Understanding the Problem Domain**
+   - Brain tumor detection is a high-stakes medical task where accuracy and reliability are critical.
+   - Even small classification errors can have serious real-world implications, making model design and evaluation challenging.
+2. **Data Loading**
+   - MRI images are loaded from the dataset and organized by class labels.
+
+
