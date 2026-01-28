@@ -88,6 +88,14 @@ Through this project, I learned:
 - Practical experience with CNN architectures for real-world applications.
 - How AI can be applied meaningfully in the healthcare domain.
 
+## Future Improvements
+
+- Experiment with transfer learning models such as VGG16, ResNet, or EfficientNet.
+- Improve performance using data augmentation techniques.
+- Add explainability methods (e.g., Grad-CAM) to visualize model decisions.
+- Deploy the model as a web application for real-time predictions.
+- Extend the model to classify additional tumor types or medical conditions.
+
 
 
 
