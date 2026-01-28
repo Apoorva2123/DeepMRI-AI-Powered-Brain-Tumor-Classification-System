@@ -1,6 +1,6 @@
 # DeepMRI: AI-Powered Brain Tumor Classification System
 
-DeepMRI is an AI-driven project designed to classify brain tumors from MRI scans with high accuracy. Using deep learning, this system helps streamline diagnosis and supports medical professionals by providing fast, reliable predictions. It's built with a focus on simplicity, performance, and real-world impact in healthcare.
+DeepMRI is an AI-driven project focused on classifying brain tumors from MRI scans using deep learning techniques. The goal of this project is to build an accurate and reliable model that can assist in early detection and diagnosis, helping medical professionals make faster and more informed decisions. The system is designed with simplicity, performance, and real-world healthcare impact in mind.
 
 ## Dataset
 
