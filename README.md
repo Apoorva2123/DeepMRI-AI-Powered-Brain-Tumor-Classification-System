@@ -79,6 +79,8 @@ The **best-performing model** achieved the highest test accuracy while maintaini
 - **Performance:** High classification accuracy on unseen MRI scans
 - **Key Strength:** Strong generalization and reliable predictions
 
+## Challenges Faced
+
 ## What I Learned
 
 Through this project, I learned:
