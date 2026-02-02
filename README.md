@@ -81,9 +81,9 @@ The **best-performing model** achieved the highest test accuracy while maintaini
 
 ## Challenges Faced
 Developing DeepMRI involved several technical and domain-specific challenges commonly encountered in medical imaging projects:
+### Subtle Visual Differences
 
 ## What I Learned
-### Subtle Visual Differences
 Brain tumors often exhibit subtle variations in shape, size, and texture. In many MRI scans, tumor regions closely resemble healthy tissue, making feature extraction and classification difficult even for deep learning models.
 
 
