@@ -82,6 +82,8 @@ The **best-performing model** achieved the highest test accuracy while maintaini
 ## Challenges Faced
 
 ## What I Learned
+Developing DeepMRI involved several technical and domain-specific challenges commonly encountered in medical imaging projects:
+
 
 Through this project, I learned:
 - How to preprocess and handle medical imaging data.
