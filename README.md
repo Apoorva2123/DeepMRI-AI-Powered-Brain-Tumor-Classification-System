@@ -18,7 +18,7 @@ The dataset used for this project is publicly available on Kaggle:
 The primary goal of this project is to:
 - Develop a deep learning model capable of accurately classifying brain MRI scans into tumor and non-tumor categories, as well as multiple tumor classes.
 - Evaluate and compare different deep learning architectures to determine the most effective and reliable approach.
-- Gain hands-on experience with medical image preprocessing, model training, and evaluation.
+- Build practical experience in medical image preprocessing, model development, training, and performance evaluation.
 
 ## Project Workflow
 This project follows a structured yet challenging pipeline, addressing real-world complexities involved in medical image analysis:
