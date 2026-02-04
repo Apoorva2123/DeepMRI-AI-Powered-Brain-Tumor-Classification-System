@@ -86,6 +86,7 @@ Brain tumors often exhibit subtle variations in shape, size, and texture. In man
 - **Class Imbalance**
 Some tumor categories had fewer samples compared to others. This imbalance increased the risk of the model becoming biased toward dominant classes, requiring careful dataset splitting and evaluation.
 - **Variability in MRI Scans**
+MRI images varied significantly in resolution, contrast, and noise levels due to differences in imaging equipment and acquisition settings. Ensuring consistent preprocessing while preserving critical medical details was a major challenge.
 
 ## What I Learned
 Through this project, I learned:
