@@ -85,7 +85,7 @@ Developing DeepMRI involved several technical and domain-specific challenges com
 Brain tumors often exhibit subtle variations in shape, size, and texture. In many MRI scans, tumor regions closely resemble healthy tissue, making feature extraction and classification difficult even for deep learning models.
 - **Class Imbalance**
 Some tumor categories had fewer samples compared to others. This imbalance increased the risk of the model becoming biased toward dominant classes, requiring careful dataset splitting and evaluation.
-Variability in MRI Scans
+- Variability in MRI Scans
 
 ## What I Learned
 Through this project, I learned:
