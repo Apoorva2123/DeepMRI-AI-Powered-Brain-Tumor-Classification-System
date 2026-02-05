@@ -46,7 +46,7 @@ This project follows a structured yet challenging pipeline, addressing real-worl
    - While deeper models can enhance feature extraction, they also introduce a higher risk of overfitting, particularly when working with limited medical datasets.
    - To improve generalization, architectural components such as convolutional layers, pooling layers, and dropout regularization are strategically integrated.
    - Hyperparameters including learning rate, number of layers, batch size, and number of filters are tuned to ensure the model learns meaningful patterns without memorizing the training data.
-   - The final architecture is chosen based on stable training behavior and strong performance on unseen MRI scans.
+   - The final model architecture is selected based on consistent training stability and strong performance on previously unseen MRI scans.
   
 6. **Model Training**
    - Models are trained on high-dimensional image data, requiring careful monitoring of loss and accuracy.
