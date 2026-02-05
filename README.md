@@ -44,7 +44,7 @@ This project follows a structured yet challenging pipeline, addressing real-worl
    - Multiple deep learning architectures are evaluated to analyze how variations in network design influence performance on medical imaging data.
    - Convolutional Neural Networks (CNNs) are designed to learn hierarchical representations, capturing low-level features such as edges and textures, as well as higher-level patterns like tumor shapes and regions.
    - While deeper models can enhance feature extraction, they also introduce a higher risk of overfitting, particularly when working with limited medical datasets.
-   - To address this, layers such as convolution, pooling, and dropout are strategically combined to balance accuracy and generalization.
+   - To improve generalization, architectural components such as convolutional layers, pooling layers, and dropout regularization are strategically integrated.
    - Hyperparameters including learning rate, number of layers, batch size, and number of filters are tuned to ensure the model learns meaningful patterns without memorizing the training data.
    - The final architecture is chosen based on stable training behavior and strong performance on unseen MRI scans.
   
