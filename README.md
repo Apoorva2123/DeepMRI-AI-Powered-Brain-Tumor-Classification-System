@@ -45,7 +45,7 @@ This project follows a structured yet challenging pipeline, addressing real-worl
    - Convolutional Neural Networks (CNNs) are designed to learn hierarchical representations, capturing low-level features such as edges and textures, as well as higher-level patterns like tumor shapes and regions.
    - While deeper models can enhance feature extraction, they also introduce a higher risk of overfitting, particularly when working with limited medical datasets.
    - To improve generalization, architectural components such as convolutional layers, pooling layers, and dropout regularization are strategically integrated.
-   - Hyperparameters including learning rate, number of layers, batch size, and number of filters are tuned to ensure the model learns meaningful patterns without memorizing the training data.
+   - Key hyperparameters — including learning rate, batch size, network depth, and number of filters — are systematically tuned to promote effective learning without overfitting.
    - The final model architecture is selected based on consistent training stability and strong performance on previously unseen MRI scans.
   
 6. **Model Training**
