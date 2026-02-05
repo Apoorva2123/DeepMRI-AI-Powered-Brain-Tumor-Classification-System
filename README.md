@@ -41,7 +41,7 @@ This project follows a structured yet challenging pipeline, addressing real-worl
    - The dataset is split into training and testing sets to ensure fair evaluation.
 
 5. **Model Architecture Design**
-   - Multiple deep learning architectures are explored to understand how different network designs impact performance on medical images.
+   - Multiple deep learning architectures are evaluated to analyze how variations in network design influence performance on medical imaging data.
    - Convolutional Neural Networks (CNNs) are carefully structured to capture both low-level features (edges, textures) and high-level features (tumor shapes and regions).
    - Increasing model depth can improve feature learning, but it also increases the risk of overfitting, especially with limited medical data.
    - To address this, layers such as convolution, pooling, and dropout are strategically combined to balance accuracy and generalization.
